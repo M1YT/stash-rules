@@ -10,3 +10,6 @@ payload:
   - DOMAIN-SUFFIX,prod-static.disney-plus.net
   - DOMAIN-SUFFIX,disney.content.edge.bamgrid.com
   - DOMAIN-SUFFIX,prod-static.disney-plus.net
+  - DOMAIN-SUFFIX,disney.images.edge.bamgrid.com
+  - DOMAIN-SUFFIX,disney.my.sentry.io
+  - DOMAIN-SUFFIX,disney-plus.net
