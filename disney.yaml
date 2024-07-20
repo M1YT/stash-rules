@@ -4,7 +4,7 @@ payload:
 
   - PROCESS-NAME,com.disney.disneyplus
 
-  - DOMAIN-KEYWORD,disney
+  - DOMAIN-SUFFIX,dssott.com
   - DOMAIN-SUFFIX,cdn.registerdisney.go.com
   - DOMAIN-SUFFIX,disneyplus.com
   - DOMAIN-SUFFIX,disney.api.edge.bamgrid.com
